@@ -223,12 +223,12 @@ body {
 }
 
 ::selection {
-    background: #03a4ed;
+    background: #7c7c7c;
     color: #fff;
 }
 
 ::-moz-selection {
-    background: #03a4ed;
+    background: #7c7c7c;
     color: #fff;
 }
 
@@ -267,11 +267,11 @@ body {
 
 .section-heading h2 em {
     font-style: normal;
-    color: #03a4ed;
+    color: #7c7c7c;
 }
 
 .section-heading h2 span {
-    color: #ff695f;
+    color: #c5181e;
     font-weight: 700;
     opacity: 1;
     text-transform: capitalize;
@@ -281,7 +281,7 @@ body {
     font-size: 30px;
     text-transform: uppercase;
     font-weight: 700;
-    color: #ff695f;
+    color: #c5181e;
     opacity: 0.15;
 }
 .main-blue-button-hover{
@@ -290,7 +290,7 @@ body {
 
 .main-blue-button a {
     display: inline-block;
-    background-color: #03a4ed;
+    background-color: #7c7c7c;
     font-size: 15px;
     font-weight: 400;
     color: #fff;
@@ -303,7 +303,7 @@ body {
 
 .main-blue-button-hover a {
     display: inline-block;
-    background-color: #03a4ed;
+    background-color: #7c7c7c;
     font-size: 15px;
     font-weight: 400;
     color: #fff;
@@ -315,12 +315,12 @@ body {
 }
 
 .main-blue-button-hover a:hover {
-    background-color: #ff695f;
+    background-color: #c5181e;
 }
 
 .main-red-button a {
     display: inline-block;
-    background-color: #ff695f;
+    background-color: #c5181e;
     font-size: 15px;
     font-weight: 400;
     color: #fff;
@@ -332,7 +332,7 @@ body {
 
 .main-red-button-hover a {
     display: inline-block;
-    background-color: #ff695f;
+    background-color: #c5181e;
     font-size: 15px;
     font-weight: 400;
     color: #fff;
@@ -344,7 +344,8 @@ body {
 }
 
 .main-red-button-hover a:hover {
-    background-color: #03a4ed;
+    background-color: #7c7c7c;
+    border-radius: 20px 95px;
 }
 
 .main-white-button a {
@@ -352,7 +353,7 @@ body {
     background-color: #fff;
     font-size: 15px;
     font-weight: 400;
-    color: #ff695f;
+    color: #c5181e;
     text-transform: capitalize;
     padding: 12px 25px;
     border-radius: 23px;
@@ -382,11 +383,11 @@ header
 }
 
 .background-header .main-nav .nav li:hover a {
-    color: #ff685f!important;
+    color: #c5181e;
 }
 
 .background-header .nav li a.active {
-    color: #ff685f!important;
+    color: #c5181e;
 }
 
 .header-area {
@@ -467,7 +468,7 @@ header
 
 .header-area .main-nav .nav li:last-child .main-red-button-hover a:hover,
 .background-header .main-nav .nav li:last-child .main-red-button-hover a:hover {
-    background-color: #03a4ed !important;
+    background-color: #7c7c7c !important;
 }
 
 .header-area .main-nav .nav li a {
@@ -492,12 +493,12 @@ header
 
 .header-area .main-nav .nav li:hover a,
 .header-area .main-nav .nav li a.active {
-    color: #ff685f!important;
+    color: #c5181e;
 }
 
 .background-header .main-nav .nav li:hover a,
 .background-header .main-nav .nav li a.active {
-    color: #ff685f!important;
+    color: #c5181e !important;
     opacity: 1;
 }
 
@@ -559,7 +560,7 @@ header
 
 .header-area .main-nav .nav li.submenu ul li a:hover {
     background: #fff;
-    color: #ff685f!important;
+    color: #c5181e;
     padding-left: 25px;
 }
 
@@ -699,7 +700,7 @@ header
 }
 
 .header-area.header-sticky .nav li a.active {
-    color: #ff685f;
+    color: #c5181e;
 }
 
 @media (max-width: 1200px) {
@@ -732,7 +733,7 @@ header
     }
     .header-area.header-sticky .nav li a:hover,
     .header-area.header-sticky .nav li a.active {
-        color: #ff685f!important;
+        color: #c5181e;
         opacity: 1;
     }
     .header-area.header-sticky .nav li.search-icon a {
@@ -793,7 +794,7 @@ header
     }
     .header-area .main-nav .nav li a:hover {
         background: #eee !important;
-        color: #ff685f!important;
+        color: #c5181e;
     }
     .header-area .main-nav .nav li.submenu ul {
         position: relative;
@@ -909,7 +910,7 @@ preloader
     height: 16px;
     top: 12px;
     left: 15px;
-    background: #ff695f;
+    background: #c5181e;
     border-radius: 50%;
     -webkit-transform: translateX(0);
     transform: translateX(0);
@@ -932,7 +933,7 @@ preloader
     width: 16px;
     height: 16px;
     margin-left: 16px;
-    background: #ff695f;
+    background: #c5181e;
     border-radius: 50%;
 }
 
@@ -982,7 +983,7 @@ Banner Style
 .main-banner .item h6 {
     text-transform: uppercase;
     font-size: 18px;
-    color: #ff695f;
+    color: #c5181e;
     margin-bottom: 15px;
 }
 
@@ -994,12 +995,12 @@ Banner Style
 }
 
 .main-banner .item h2 em {
-    color: #03a4ed;
+    color: #7c7c7c;
     font-style: normal;
 }
 
 .main-banner .item h2 span {
-    color: #ff695f;
+    color: #c5181e;
 }
 
 .main-banner .item p {
@@ -1019,7 +1020,7 @@ Banner Style
     line-height: 46px;
     border-radius: 50%;
     background: rgb(255, 104, 95);
-    background: linear-gradient(105deg, rgba(255, 104, 95, 1) 0%, rgba(255, 144, 104, 1) 100%);
+background: linear-gradient(105deg, rgb(197 24 30) 0%, rgb(197 24 30) 100%);
     color: #fff;
     font-size: 20px;
 }
@@ -1029,7 +1030,7 @@ Banner Style
 }
 
 .main-banner .item .down-buttons .call-button a {
-    color: #ff695f;
+    color: #c5181e;
     font-size: 15px;
     font-weight: 500;
     margin-left: 30px;
@@ -1055,8 +1056,8 @@ Banner Style
 }
 
 .main-banner .active:before {
-    color: #ff685f;
-    border-bottom: 3px solid #ff685f;
+    color: #c5181e;
+    border-bottom: 3px solid #c5181e;
 }
 
 
@@ -1141,7 +1142,7 @@ Services Style
 .our-services .owl-dots .owl-dot {
     width: 6px;
     height: 6px;
-    background-color: #ff695f;
+    background-color: #c5181e;
     border-radius: 50%;
     opacity: 0.3;
     margin: 0px 5px;
@@ -1195,7 +1196,7 @@ About
 
 .about-us .fact-item .count-title {
     font-size: 15px;
-    color: #ff695f;
+    color: #c5181e;
 }
 
 .about-us .fact-item p {
@@ -1318,7 +1319,7 @@ Portfolio
 .owl-portfolio .owl-nav .owl-prev span:after {
     width: 46px;
     height: 46px;
-    background-color: #ff695f;
+    background-color: #c5181e;
     display: inline-block;
     text-align: center;
     line-height: 46px;
@@ -1342,7 +1343,7 @@ Portfolio
 .owl-portfolio .owl-nav .owl-next span:after {
     width: 46px;
     height: 46px;
-    background-color: #ff695f;
+    background-color: #c5181e;
     display: inline-block;
     text-align: center;
     line-height: 46px;
@@ -1363,7 +1364,7 @@ Portfolio
 .owl-portfolio .owl-dots .owl-dot {
     width: 6px;
     height: 6px;
-    background-color: #ff695f;
+    background-color: #c5181e;
     border-radius: 50%;
     opacity: 0.3;
     margin: 0px 5px;
@@ -1439,7 +1440,7 @@ Pricing
 }
 
 .pricing-tables .item em {
-    color: #ff695f;
+    color: #c5181e;
     font-size: 15px;
     display: block;
     margin-top: 25px;
@@ -1449,7 +1450,7 @@ Pricing
 
 .pricing-tables .item span {
     font-size: 44px;
-    color: #ff695f;
+    color: #c5181e;
     font-weight: 700;
     display: block;
     margin-top: -5px;
@@ -1476,7 +1477,7 @@ Pricing
 
 
 /* .pricing-tables .first-item:hover{
-    background-color: #ff695f;
+    background-color: #c5181e;
 } */
 
 .pricing-tables .second-item {
@@ -1558,7 +1559,7 @@ Subscribe
 
 .subscribe .inner-content form button {
     display: inline-block;
-    background-color: #03a4ed;
+    background-color: #7c7c7c;
     font-size: 15px;
     font-weight: 400;
     color: #fff;
@@ -1574,7 +1575,7 @@ Subscribe
 }
 
 .subscribe .inner-content form button:hover {
-    background-color: #ff695f;
+    background-color: #c5181e;
 }
 
 
@@ -1684,7 +1685,7 @@ Video
 
 .our-videos .nacc .thumb .overlay-effect {
     background: rgb(255, 104, 95);
-    background: linear-gradient(105deg, rgba(255, 104, 95, 1) 0%, rgba(255, 144, 104, 1) 100%);
+background: linear-gradient(105deg, rgb(197 24 30) 0%, rgb(197 24 30) 100%);
     display: inline-block;
     position: absolute;
     left: 0;
@@ -1714,7 +1715,7 @@ Video
 
 .our-videos .menu .thumb .inner-content {
     background: rgb(255, 104, 95);
-    background: linear-gradient(105deg, rgba(255, 104, 95, 1) 0%, rgba(255, 144, 104, 1) 100%);
+background: linear-gradient(105deg, rgb(197 24 30) 0%, rgb(197 24 30) 100%);
     border-top-left-radius: 23px;
     border-bottom-right-radius: 23px;
     position: absolute;
@@ -1803,7 +1804,7 @@ contact
     text-align: center;
     line-height: 46px;
     background: rgb(255, 104, 95);
-    background: linear-gradient(105deg, rgba(255, 104, 95, 1) 0%, rgba(255, 144, 104, 1) 100%);
+background: linear-gradient(105deg, rgb(197 24 30) 0%, rgb(197 24 30) 100%);
     border-radius: 50%;
     color: #fff;
     font-size: 22px;
@@ -1837,7 +1838,7 @@ form#contact input {
     height: 46px;
     border-radius: 0px;
     background-color: transparent;
-    border-bottom: 1px solid #9bdbf8;
+    border-bottom: 1px solid #7c7c7c;
     border-top: none;
     border-left: none;
     border-right: none;
@@ -1855,7 +1856,7 @@ form#contact input::placeholder {
 
 form#contact button {
     display: inline-block;
-    background-color: #ff695f;
+    background-color: #c5181e;
     font-size: 15px;
     font-weight: 400;
     color: #fff;
@@ -1869,7 +1870,7 @@ form#contact button {
 }
 
 form#contact button:hover {
-    background-color: #03a4ed;
+    background-color: #7c7c7c;
 }
 
 
@@ -1906,6 +1907,9 @@ footer .about a {
     color: #afafaf;
     font-weight: 300;
 }
+footer .about a:hover {
+    color: #c5181e;
+}
 
 footer .about ul {
     margin-top: 20px;
@@ -1919,7 +1923,7 @@ footer .about ul li {
 footer .about ul li a {
     width: 32px;
     height: 32px;
-    background-color: #03a4ed;
+    background-color: #7c7c7c;
     color: #fff !important;
     border-radius: 50%;
     text-align: center;
@@ -1929,7 +1933,7 @@ footer .about ul li a {
 }
 
 footer .about ul li a:hover {
-    background-color: #ff695f;
+    background-color: #c5181e;
 }
 
 footer .footer-item ul li {
@@ -1948,7 +1952,7 @@ footer .footer-item ul li a {
 }
 
 footer .footer-item ul li a:hover {
-    color: #ff695f;
+    color: #c5181e;
 }
 
 footer .footer-item p {
@@ -1958,7 +1962,7 @@ footer .footer-item p {
 }
 
 footer .footer-item form {
-    background-color: #03a4ed;
+    background-color: #c5181e;
     height: 46px;
     border-radius: 23px;
     position: relative;
@@ -1998,7 +2002,7 @@ footer .copyright p {
 }
 
 footer .copyright p a {
-    color: #ff695f;
+    color: #c5181e;
 }
 
 
@@ -2102,7 +2106,7 @@ responsive
     }
     .subscribe .inner-content form button {
         width: 100%;
-        background-color: #ff695f;
+        background-color: #c5181e;
         margin-top: 30px;
     }
     .our-videos ul.nacc li {
